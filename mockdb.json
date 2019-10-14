@@ -1,135 +1,135 @@
 [
   {
-    "id": 1;
-    "global_id": "4150fcd5-4901-4395-895a-d0cf581ce834";
-    "carrier_id": 1;
-    "expected_entries": 90;
-    "has_errors": "t";
-    "expected_to_send": 90;
-    "sent": "f";
-    "rule_engine_batch_id": "http://myurl.com/";
-    "map": null;
+    "id": 1,
+    "global_id": "4150fcd5-4901-4395-895a-d0cf581ce834";,
+    "carrier_id": 1,
+    "expected_entries": 90,
+    "has_errors": "t",
+    "expected_to_send": 90,
+    "sent": "f",
+    "rule_engine_batch_id": "http://myurl.com/",
+    "map": null,
   },
   {
-    "id": 2;
-    "global_id": "896ef1b5-6d58-4431-811d-d7c69490a23b";
-    "carrier_id": 3;
-    "expected_entries": 709069;
-    "has_errors": "t";
-    "expected_to_send": 709069;
-    "sent": "f";
-    "rule_engine_batch_id": "http://myurl.com/";
-    "map": null;
+    "id": 2,
+    "global_id": "896ef1b5-6d58-4431-811d-d7c69490a23b",
+    "carrier_id": 3,
+    "expected_entries": 709069,
+    "has_errors": "t",
+    "expected_to_send": 709069,
+    "sent": "f",
+    "rule_engine_batch_id": "http://myurl.com/",
+    "map": null,
   },
   {
-    "id": 3;
-    "global_id": "82d696e5-62f8-4f69-b014-e4e87ed88e30";
-    "carrier_id": 2;
-    "expected_entries": 4140;
-    "has_errors": true;
-    "expected_to_send": 4140;
-    "sent": "t";
-    "rule_engine_batch_id": "http://myurl.com/";
-    "map": null;
+    "id": 3,
+    "global_id": "82d696e5-62f8-4f69-b014-e4e87ed88e30",
+    "carrier_id": 2,
+    "expected_entries": 4140,
+    "has_errors": "f",
+    "expected_to_send": 4140,
+    "sent": "t",
+    "rule_engine_batch_id": "http://myurl.com/",
+    "map": null,
   },
   {
-    "id": 4;
-    "global_id": "8c92c8d6-5430-40a9-ba0c-93d77467d4a4";
-    "carrier_id": 7;
-    "expected_entries": 582831;
-    "has_errors: true";
-    "expected_to_send": 582831;
-    "sent": "t";
-    "rule_engine_batch_id": "http://myurl.com/";
-    "map": null;
+    "id": 4,
+    "global_id": "8c92c8d6-5430-40a9-ba0c-93d77467d4a4",
+    "carrier_id": 7,
+    "expected_entries": 582831,
+    "has_errors": "t",
+    "expected_to_send": 582831,
+    "sent": "t",
+    "rule_engine_batch_id": "http://myurl.com/",
+    "map": null,
   },
   {
-    "id": 5;
-    "global_id": "4a087964-6196-4913-8c46-40a535732a36";
-    "carrier_id": 6;
-    "expected_entries": 85;
-    "has_errors": true;
-    "expected_to_send": 85;
-    "sent": "t";
-    "rule_engine_batch_id": "http://myurl.com/";
-    "map": null;
+    "id": 5,
+    "global_id": "4a087964-6196-4913-8c46-40a535732a36",
+    "carrier_id": 6,
+    "expected_entries": 85,
+    "has_errors": "f",
+    "expected_to_send": 85,
+    "sent": "t",
+    "rule_engine_batch_id": "http://myurl.com/",
+    "map": null,
   },
   {
-    "id": 6;
-    "global_id": "51e72fc2-c53d-4868-994d-51141cd427d9";
-    "carrier_id": 4;
-    "expected_entries": 415294;
-    "has_errors": true;
-    "expected_to_send": 415294;
-    "sent": "f";
-    "rule_engine_batch_id": "http://myurl.com/";
-    "map": null;
+    "id": 6,
+    "global_id": "51e72fc2-c53d-4868-994d-51141cd427d9",
+    "carrier_id": 4,
+    "expected_entries": 415294,
+    "has_errors": "t",
+    "expected_to_send": 415294,
+    "sent": "f",
+    "rule_engine_batch_id": "http://myurl.com/",
+    "map": null,
   },
   {
-    "id": 7;
-    "global_id": "165e5c07-72a2-461e-a462-37c6f0f20a35";
-    "carrier_id": 5;
-    "expected_entries": 3841;
-    "has_errors": true;
-    "expected_to_send": 3841;
-    "sent": "t";
-    "rule_engine_batch_id": "http://myurl.com/";
-    "map": null;
+    "id": 7,
+    "global_id": "165e5c07-72a2-461e-a462-37c6f0f20a35",
+    "carrier_id": 5,
+    "expected_entries": 3841,
+    "has_errors": "f",
+    "expected_to_send": 3841,
+    "sent": "t",
+    "rule_engine_batch_id": "http://myurl.com/",
+    "map": null,
   },
   {
-    "id": 8;
-    "global_id": "2bae26e4-defd-481c-8471-ef53c34d23c1";
-    "carrier_id": 2;
-    "expected_entries": 265575;
-    "has_errors": true;
-    "expected_to_send": 265575;
-    "sent": "f";
-    "rule_engine_batch_id": "http://myurl.com/";
-    "map": null;
+    "id": 8,
+    "global_id": "2bae26e4-defd-481c-8471-ef53c34d23c1",
+    "carrier_id": 2,
+    "expected_entries": 265575,
+    "has_errors": "f",
+    "expected_to_send": 265575,
+    "sent": "f",
+    "rule_engine_batch_id": "http://myurl.com/",
+    "map": null,
   },
   {
-    "id": 9;
-    "global_id": "61615fe6-2bba-4aac-9f81-d7b127dec756";
-    "carrier_id": 2;
-    "expected_entries": 1613;
-    "has_errors": true;
-    "expected_to_send": 1613;
-    "sent": "f";
-    "rule_engine_batch_id": "http://myurl.com/";
-    "map": null;
+    "id": 9,
+    "global_id": "61615fe6-2bba-4aac-9f81-d7b127dec756",
+    "carrier_id": 2,
+    "expected_entries": 1613,
+    "has_errors": "t",
+    "expected_to_send": 1613,
+    "sent": "f",
+    "rule_engine_batch_id": "http://myurl.com/",
+    "map": null,
   },
   {
-    "id": 10;
-    "global_id": "888b08d1-57ca-4291-8961-ac4acb5ef815";
-    "carrier_id": 5;
-    "expected_entries": 3841;
-    "has_errors": true;
-    "expected_to_send": 3841;
-    "sent": "f";
-    "rule_engine_batch_id": "http://myurl.com/";
-    "map": null;
+    "id": 10,
+    "global_id": "888b08d1-57ca-4291-8961-ac4acb5ef815",
+    "carrier_id": 5,
+    "expected_entries": 3841,
+    "has_errors": "t",
+    "expected_to_send": 3841,
+    "sent": "f",
+    "rule_engine_batch_id": "http://myurl.com/",
+    "map": null,
   },
   {
-    "id": 11;
-    "global_id": "dec1c093-c1c8-4762-b41e-58b0798683a3";
-    "carrier_id": 7;
-    "expected_entries": 118203;
-    "has_errors": true;
-    "expected_to_send": 118203;
-    "sent": "t";
-    "rule_engine_batch_id": "http://myurl.com/";
-    "map": null;
+    "id": 11,
+    "global_id": "dec1c093-c1c8-4762-b41e-58b0798683a3",
+    "carrier_id": 7,
+    "expected_entries": 118203,
+    "has_errors": "f",
+    "expected_to_send": 118203,
+    "sent": "t",
+    "rule_engine_batch_id": "http://myurl.com/",
+    "map": null,
   },
   {
-    "id": 12;
-    "global_id": "66b37ea4-0fb7-431b-a939-391eec8659fb";
-    "carrier_id": 1;
-    "expected_entries": 3271;
-    "has_errors": true;
-    "expected_to_send": 3271;
-    "sent": "f";
-    "rule_engine_batch_id": "http://myurl.com/";
-    "map": null;
+    "id": 12,
+    "global_id": "66b37ea4-0fb7-431b-a939-391eec8659fb",
+    "carrier_id": 1,
+    "expected_entries": 3271,
+    "has_errors": "f",
+    "expected_to_send": 3271,
+    "sent": "f",
+    "rule_engine_batch_id": "http://myurl.com/",
+    "map": null,
   },
   
 ]
