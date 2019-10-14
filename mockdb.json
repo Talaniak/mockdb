@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "global_id": "4150fcd5-4901-4395-895a-d0cf581ce834";,
+    "global_id": "4150fcd5-4901-4395-895a-d0cf581ce834",
     "carrier_id": 1,
     "expected_entries": 90,
     "has_errors": "t",
